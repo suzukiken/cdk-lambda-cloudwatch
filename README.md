@@ -5,4 +5,4 @@ To deploy Lambda function which will be triggered at the occurance of pattern ma
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdklambda-cloudwatch)
+[description](https://note.figmentresearch.com/aws/cdklambda-cloudwatch)
